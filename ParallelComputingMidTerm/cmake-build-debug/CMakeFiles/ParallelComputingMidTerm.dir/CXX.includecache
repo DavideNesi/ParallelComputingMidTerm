@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/ParallelOpenMP.h
+iostream
+-
+random
+-
+sys/time.h
+-
+stdio.h
+-
+stdlib.h
+-
+Result.h
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/Result.h
+
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/Result.h
+sys/time.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/Serial.h
+iostream
+-
+random
+-
+sys/time.h
+-
+stdio.h
+-
+stdlib.h
+-
+Result.h
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/Result.h
+
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/main.cpp
+omp.h
+-
+iostream
+-
+random
+-
+sys/time.h
+-
+stdio.h
+-
+stdlib.h
+-
+fstream
+-
+cstdio
+-
+iomanip
+-
+iostream
+-
+Serial.h
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/Serial.h
+ParallelOpenMP.h
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/ParallelOpenMP.h
+

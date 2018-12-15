@@ -1,0 +1,3 @@
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/cmake-build-debug/CMakeFiles/ParallelComputingMidTerm.dir
+D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

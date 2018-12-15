@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\OneDrive - stud.unifi.it\IDE\CLion\Unifi\ParallelComputingMidTerm"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/OneDrive - stud.unifi.it/IDE/CLion/Unifi/ParallelComputingMidTerm/cmake-build-debug
